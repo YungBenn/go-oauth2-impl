@@ -61,5 +61,4 @@ func ConvertToken(accessToken string) (*GooglePayload, error) {
 	}
 
 	return &data, nil
-
 }
